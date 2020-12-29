@@ -445,8 +445,8 @@
     <!-- Label showing previous unit in a sub-section on assessment navigation bar-->
     <string name="assessment_previous">Previous</string>
     <!-- Label showing assessment only available on website-->
-    <string name="assessment_not_available">This component is better rendered on mobile browser. ഈ ഘടകം ബ്രോസറിൽ മാത്രമേ ശരിയായി റെൻഡർ ആവുകയുള്ളൂ.</string>    <!-- Label showing assessment only available on website-->
-    <string name="assessment_explore_on_web">Please complete this component and come back to the App.</string>
+    <string name="assessment_not_available">This component is better rendered on mobile browser.</string>    <!-- Label showing assessment only available on website-->
+    <string name="assessment_explore_on_web">Please complete this component and come back to the App. NOTE: You may be asked to sign-in again on browser.</string>
     <!-- Button to show wiew on web for assessment-->
     <string name="assessment_view_on_web">View on browser</string>
     <!-- Label to show empty assessment -->
@@ -575,9 +575,9 @@
     <string name="video_player_forward_time_sec">+15</string>
 
     <!-- Button label to bring up course finder -->
-    <string name="find_course_text">Looking for a new course?</string>
+    <string name="find_course_text">Apply for a new Course</string>
     <!-- Button label to bring up course finder -->
-    <string name="find_course_btn_text">Find a Course</string>
+    <string name="find_course_btn_text">Find Your Org</string>
     <!-- Message between sign in button and social login buttons -->
     <string name="or_sign_in_with">Or sign in with</string>
     <!-- Facebook login method -->
@@ -612,15 +612,15 @@
     <!-- Button leading user to log in screen -->
     <string name="launch_login">Sign In</string>
     <!-- Introduction text on the launch screen -->
-    <string name="launch_text">Courses from Al-Dhikr Academy International.</string>
+    <string name="launch_text">Learn with blend-ED</string>
     <!-- Introduction description on the launch screen -->
-    <string name="launch_des">An international platform to memorize the Quran and to learn Islamic subjects irrespective of gender and age.</string>
+    <string name="launch_des">High quality Courses from your favorite Organizations</string>
     <!-- Introduction text on the launch screen when courses and program enabled  -->
-    <string name="launch_text_courses_and_program">Courses from Al-Dhikr Academy International.</string>
+    <string name="launch_text_courses_and_program">Learn with blend-ED</string>
     <!-- Search View title on the launch screen -->
-    <string name="launch_search_title">What do you want to learn?</string>
+    <string name="launch_search_title">Learn from mixed dimensions</string>
     <!-- Search view leading user to Find Courses screen from the launch screen upon searching some text -->
-    <string name="launch_search_courses">Explore our courses!</string>
+    <string name="launch_search_courses">Search your Org / Course</string>
     <!-- Search view leading user to Find Courses & Program screen from the launch screen upon searching some text -->
     <string name="launch_search_courses_program">Search courses and programs</string>
 
